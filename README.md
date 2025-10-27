@@ -11,7 +11,7 @@ A full-stack food delivery platform built with **Next.js** frontend and **Spring
 - **Real-time Orders**: Place orders and track delivery status in real-time
 - **Favorites**: Save favorite restaurants and dishes
 - **Order History**: Complete order history with reorder functionality
-- **Secure Payments**: Integrated payment processing
+- **Secure Payments**: Integrated payment  the processing
 
 ### For Vendors
 - **Vendor Dashboard**: Complete business management interface
